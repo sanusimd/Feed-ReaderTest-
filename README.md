@@ -3,14 +3,17 @@
 Project to Feed Reader App with Javascript Testing Framework (Jasmine)
  
 
-
 ## Installation
 Download the GitHub zip file or clone the repository onto your local system: 
         **zip file https://github.com/sanusimd/Feed-ReaderTest-
         **git clone https://github.com/sanusimd/Feed-ReaderTest-.git
 
 View Live Deployment 
-Click on this <a href="https://sanusimd.github.io/Feed-ReaderTest-/">LINK</a>
+    Click on this <a href="https://sanusimd.github.io/Feed-ReaderTest-/">LINK</a>
+
+## Reference
+
+[2.1 Jasmine documentation](https://jasmine.github.io/2.1/introduction.html)
 
 ## Contributing
 
