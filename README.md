@@ -5,7 +5,7 @@
 
 ## How to Open App
 
-You can view the [View live project here](https://sanusimd.github.io/Feed-ReaderTest-/) 
+You can [View live project here](https://sanusimd.github.io/Feed-ReaderTest-/) 
  
 
  **or**
